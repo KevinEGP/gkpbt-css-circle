@@ -9,3 +9,7 @@
 			width:var(--circle-size);
 			height:var(--circle-size);
 }
+
+.red {
+     background-color:red
+ }

@@ -2,14 +2,14 @@
     --circle-size:500px;
 }
 .blue {
-			background-color:blue
+    background-color:blue
 }
 .circle{
-			border-radius:50%;
-			width:var(--circle-size);
-			height:var(--circle-size);
+    border-radius:50%;
+    width:var(--circle-size);
+    height:var(--circle-size);
 }
 
 .red {
-     background-color:red
+    background-color:red
  }
